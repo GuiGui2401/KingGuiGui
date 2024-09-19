@@ -2230,7 +2230,7 @@ function _0x2cd8() {
         '⏱️\x20.ru',
         'prefi',
         'ng\x20!!',
-        'queen',
+        'QUEEN',
         '/\x20Log',
         'bjKlk',
         'vehiC',
