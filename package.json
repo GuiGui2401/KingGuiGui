@@ -1,6 +1,6 @@
 {
   "name": "king-guigui-md",
-  "version": "4.0.2",
+  "version": "4.0.1",
   "description": "King GuiGui Automated whatsapp md bot created by GuiGui2401 using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/GuiGui2401/KingGuiGui.git"
   },
   "keywords": [
-    "king",
-    "guigui",
+    "queen",
+    "elisa",
     "whatsapp",
     "mrnima",
     "automate",
