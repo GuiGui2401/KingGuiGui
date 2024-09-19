@@ -8,10 +8,10 @@
 ░░░╚═╝░░░░╚═════╝░╚══════╝╚══════╝╚═╝░░╚══╝  ╚══════╝╚══════╝╚═╝╚═════╝░╚═╝░░╚═╝
 
 
-[ Queen Elisa Whatsapp bot ]
+[ King GuiGui Whatsapp bot ]
 
-Author : @darkmakerofc 
-Web Author : @sl-real-tech
+Author : @guigui2404 
+Web Author : @guigui2404
 Language : JavaScript
 Stable Version : v4
 
@@ -1515,7 +1515,7 @@ function _0x2cd8() {
         '7917',
         'NEHIr',
         'ylJSO',
-        'queen',
+        'king',
         'UsgwJ',
         '9610',
         'RqNzE',
@@ -2230,7 +2230,7 @@ function _0x2cd8() {
         '⏱️\x20.ru',
         'prefi',
         'ng\x20!!',
-        'QUEEN',
+        'king',
         '/\x20Log',
         'bjKlk',
         'vehiC',
