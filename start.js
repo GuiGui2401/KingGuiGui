@@ -1150,7 +1150,7 @@ function _0x274f() {
         '1112724shUhPO',
         'NeZNB',
         'a-md',
-        'KING',
+        'QUEEN',
         'kzGle',
         'zA-Z_',
         'block',
