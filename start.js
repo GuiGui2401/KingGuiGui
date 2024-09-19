@@ -1237,7 +1237,7 @@ function _0x274f() {
         'rn\x20th',
         'jseBt',
         'zdnyz',
-        'king',
+        'queen',
         'XRsbl',
         'const',
         'eDyjW',
