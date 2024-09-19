@@ -1,7 +1,7 @@
 {
   "name": "king-guigui-md",
-  "version": "4.0.1",
-  "description": "King GuiGui Automated whatsapp md bot created by mr nima using nodejs and baileys lib",
+  "version": "4.0.2",
+  "description": "King GuiGui Automated whatsapp md bot created by GuiGui2401 using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
     "lib": "lib"
